@@ -1,4 +1,4 @@
-package com.livejq.demo;
+package com.livejq.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

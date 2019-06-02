@@ -1,4 +1,4 @@
-package com.livejq.demo;
+package com.livejq.entry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
